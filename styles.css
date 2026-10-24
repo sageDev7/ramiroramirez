@@ -445,3 +445,7 @@ body.nav-open .mnav-ov{opacity:1;visibility:visible}
 
 /* privacidad / 404: segunda parte del título sin itálica, en dorado */
 .legal-hero h1 em,.nf h1 em{font-style:normal;color:var(--oro)}
+.bevel{overflow:visible}
+.bevel line{stroke-linecap:square}
+/* filo dorado que se desvanece con un degradé ancho y suave hacia los bordes */
+.bevel line{stroke:url(#filo-oro)}
