@@ -1,0 +1,13 @@
+{
+  "sitio": "Doctor Ramiro Ramirez",
+  "titulo_corto": "Dr. Ramiro Ramirez",
+  "responsable": "el Dr. Ramiro Ramirez",
+  "domicilio": "",
+  "email": "ramirezramiro043@gmail.com",
+  "telefono": "+54 9 11 6396-8932",
+  "persona": "nosotros",
+  "formulario": false,
+  "btn": "btn-oro",
+  "theme_color": "#0C0B0A",
+  "css": {"fondo": "var(--t2)", "fondo_hero": "var(--t1)", "texto_hero": "#fff", "acento": "var(--oro)", "muted": "var(--muted)", "titulos": "var(--head)"}
+}
